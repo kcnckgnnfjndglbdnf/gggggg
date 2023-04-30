@@ -1,0 +1,497 @@
+.headr {
+    background-color: #09D436;
+    max-width: 100%;
+    height: 60px;
+}
+.a {
+    color: #fff;
+    font-family: Regular;
+    font-size: 25px;
+    position: absolute;
+    left: 22%;
+    top: 3%;
+}
+.line {
+    height: 60px;
+    width: 1px;
+    background-color: dimgrey;
+    position: absolute;
+    left: 50%;
+}
+.WK {
+    border-radius: 100px;
+    width: 30px;
+    height: 30px;
+    position: absolute; 
+    top: 3%; 
+    left: 60%;
+    margin-left: 75px;
+    margin-right: 75px;  
+}
+.unsta {
+   border-radius: 100px;
+   width: 30px;
+   height: 30px;
+   position: absolute; 
+   top: 3%; 
+   left: 70%;
+   margin-left: 75px;
+   margin-right: 75px;  
+}
+.tele {
+    border-radius: 100px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 3%;
+    left: 80%;
+    margin-left: 75px
+}
+h1 {
+    font-family: Regular;
+    font-size: 30px; 
+    text-align: center;
+}
+.Q {
+   width: 60%;
+   height: 392px;
+    
+}
+bottom {
+   text-decoration:none;
+    display: inline-block;
+    background-color: #26E850;
+    color: #000;
+    padding: 20px 50px;
+    transition: all 0.8s ease 0s;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 20px; 
+}
+bottom:hover {
+    background-color: #e53935;
+}
+.sad {
+   background-color: #09D436;
+   width: 100%;
+   height: 75px;
+   margin-top: 30px
+}
+.Z {
+   position: absolute;
+   left: 2%;
+   top: 650%;
+   font-family: Regular;
+   font-size: 20px;
+   color: #fff;
+   margin-top: 78px;
+}
+.fr {
+    border-radius: 100px;
+    width: 30px;
+    height: 30px;
+    position: absolute; 
+    top: 660.5%;
+    left: 10%;
+    margin-left: 45px;
+    margin-right: 45px; 
+}
+.hr {
+   border-radius: 100px;
+   width: 30px;
+   height: 30px;
+   position: absolute; 
+   top: 660.5%; 
+   left: 15%;
+   margin-left: 45px;
+   margin-right: 45px; 
+}
+.yr {
+    border-radius: 100px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 660.5%;
+    left: 23%;
+}
+.podval {
+   font-family: Regular;
+   font-size: 20px;   
+   color: #fff;
+   position: absolute;
+   left: 70%;
+   top: 658%;
+}
+@media screen and (max-width: 1280px){
+ .headr {
+    height: 60px;
+}
+.a {
+    font-size: 25px;
+    position: absolute;
+    left: 20%;
+    top: 4%;
+}
+.WK {
+    width: 30px;
+    height: 30px;
+    position: absolute; 
+    top: 4%; 
+    left: 60%;
+    margin-left: 75px;
+    margin-right: 75px;  
+}
+.unsta {
+   width: 30px;
+   height: 30px;
+   position: absolute; 
+   top: 4%; 
+   left: 70%;
+   margin-left: 75px;
+   margin-right: 75px;  
+}
+.tele {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 4%;
+    left: 80%;
+    margin-left: 75px
+}
+h1 {
+    font-size: 30px; 
+}
+.Q {
+   width: 60%;
+   height: 392px;   
+}
+bottom {
+    padding: 15px 35px;
+    font-size: 25px;
+    margin-top: 20px; 
+}
+.sad {
+   height: 70px;
+   margin-top: 30px
+}
+.Z {
+   position: absolute;
+   left: 2%;
+   top: 812%;
+   font-size: 20px;
+   margin-top: 78px;
+}
+.fr {
+    width: 30px;
+    height: 30px;
+    position: absolute; 
+    top: 824.5%;
+    left: 10%;
+    margin-left: 45px;
+    margin-right: 45px; 
+}
+.hr {
+   width: 30px;
+   height: 30px;
+   position: absolute; 
+   top: 824.5%; 
+   left: 15%;
+   margin-left: 45px;
+   margin-right: 45px; 
+}
+.yr {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 824.5%;
+    left: 23%;
+}
+.podval {
+   font-size: 20px;   
+   position: absolute;
+   left: 70%;
+   top: 822%;
+}   
+}
+@media screen and (max-width: 1024px){
+ .headr {
+    height: 50px;
+}
+.a {
+    font-size: 23px;
+    position: absolute;
+    left: 20%;
+    top: 4%;
+}
+.line {
+    height: 50px;
+}
+.WK {
+    width: 28px;
+    height: 28px;
+    position: absolute; 
+    top: 4.5%; 
+    left: 56%;
+    margin-left: 75px;
+    margin-right: 75px;  
+}
+.unsta {
+   width: 28px;
+   height: 28px;
+   position: absolute; 
+   top: 4.5%; 
+   left: 65%;
+   margin-left: 75px;
+   margin-right: 75px;  
+}
+.tele {
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    top: 4.5%;
+    left: 75%;
+    margin-left: 75px
+}
+h1 {
+    font-size: 27px; 
+}
+.Q {
+   width: 60%;
+   height: 302px;   
+}
+bottom {
+    padding: 10px 30px;
+    font-size: 23px;
+    margin-top: 20px; 
+}
+.sad {
+   height: 60px;
+   margin-top: 30px
+}
+.Z {
+   position: absolute;
+   left: 2%;
+   top: 903%;
+   font-size: 20px;
+   margin-top: 78px;
+}
+.fr {
+    width: 28px;
+    height: 28px;
+    position: absolute; 
+    top: 921%;
+    left: 10%;
+    margin-left: 45px;
+    margin-right: 45px; 
+}
+.hr {
+   width: 28px;
+   height: 28px;
+   position: absolute; 
+   top: 921%; 
+   left: 16%;
+   margin-left: 45px;
+   margin-right: 45px; 
+}
+.yr {
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    top: 921%;
+    left: 27%;
+}
+.podval {
+   font-size: 18px;   
+   position: absolute;
+   left: 60%;
+   top: 918%;
+}   
+}    
+@media screen and (max-width: 768px){
+ .headr {
+    height: 40px;
+}
+.a {
+    font-size: 20px;
+    position: absolute;
+    left: 20%;
+    top: 5%;
+}
+.line {
+    height: 40px;
+}
+.WK {
+    width: 25px;
+    height: 25px;
+    position: absolute; 
+    top: 5%; 
+    left: 50%;
+    margin-left: 75px;
+    margin-right: 75px;  
+}
+.unsta {
+   width: 25px;
+   height: 25px;
+   position: absolute; 
+   top: 5%; 
+   left: 60%;
+   margin-left: 75px;
+   margin-right: 75px;  
+}
+.tele {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 5%;
+    left: 70%;
+    margin-left: 75px
+}
+h1 {
+    font-size: 20px; 
+}
+.Q {
+   width: 70%;
+   height: 230px;   
+}
+bottom {
+    padding: 10px 25px;
+    font-size: 20px;
+    margin-top: 20px; 
+}
+.sad {
+   height: 55px;
+   margin-top: 30px
+}
+.Z {
+   position: absolute;
+   left: 4%;
+   top: 987%;
+   font-size: 16px;
+   margin-top: 78px;
+}
+.fr {
+    width: 25px;
+    height: 25px;
+    position: absolute; 
+    top: 1012%;
+    left: 12%;
+    margin-left: 35px;
+    margin-right: 35px; 
+}
+.hr {
+   width: 25px;
+   height: 25px;
+   position: absolute; 
+   top: 1012%; 
+   left: 18%;
+   margin-left: 35px;
+   margin-right: 35px; 
+}
+.yr {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 1012%;
+    left: 30%;
+}
+.podval {
+   font-size: 16px;   
+   position: absolute;
+   left: 50%;
+   top: 1008%;
+}   
+}
+@media screen and (max-width: 320px){
+ .headr {
+    height: 20px;
+}
+.a {
+    font-size: 10px;
+    position: absolute;
+    left: 18%;
+    top: 8%;
+}
+.line {
+    height: 20px;
+}
+.WK {
+    width: 15px;
+    height: 15px;
+    position: absolute; 
+    top: 7%; 
+    left: 57%;
+    margin-left: 15px;
+    margin-right: 15px;  
+}
+.unsta {
+   width: 15px;
+   height: 15px;
+   position: absolute; 
+   top: 7%; 
+   left: 67%;
+   margin-left: 15px;
+   margin-right: 15px;  
+}
+.tele {
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 7%;
+    left: 77%;
+    margin-left: 15px
+}
+h1 {
+    font-size: 10px; 
+}
+.Q {
+   width: 70%;
+   height: 92px;   
+}
+bottom {
+    padding: 5px 20px;
+    font-size: 15px;
+    margin-top: 10px; 
+}
+.sad {
+   height: 25px;
+   margin-top: 15px
+}
+.Z {
+   position: absolute;
+   left: 6%;
+   top: 872%;
+   font-size: 8px;
+   margin-top: 28px;
+}
+.fr {
+    width: 10px;
+    height: 10px;
+    position: absolute; 
+    top: 891.5%;
+    left: 14%;
+    margin-left: 15px;
+    margin-right: 15px; 
+}
+.hr {
+   width: 10px;
+   height: 10px;
+   position: absolute; 
+   top: 891.5%; 
+   left: 20%;
+   margin-left: 15px;
+   margin-right: 15px; 
+}
+.yr {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 891.5%;
+    left: 31%;
+}
+.podval {
+   font-size: 8px;   
+   position: absolute;
+   left: 50%;
+   top: 886%;
+}   
+}
